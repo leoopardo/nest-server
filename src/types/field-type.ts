@@ -1,0 +1,8 @@
+export enum FieldType {
+  OBJECTID = 'OBJECTID',
+  STRING = 'STRING',
+  BOOLEAN = 'BOOLEAN',
+  NUMBER = 'NUMBER',
+  DATE = 'DATE',
+  DATETIME = 'DATETIME',
+}
